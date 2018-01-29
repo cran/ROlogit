@@ -1,0 +1,11 @@
+d89329325565c66fec0a92f1b37837b5 *DESCRIPTION
+481d7f4799afbaa99f3d9b4a9d12b224 *NAMESPACE
+e1fc2bd3515dc3b6b796eaf539c39b7f *R/ROlogit.R
+06c2b9ebc4d8504f5b79591d453e4c07 *data/inpat_bg.RData
+0ec3d3e25a52671eda2fd706d5743d06 *man/hresid.Rd
+98c591e2780623875452770a942f0ddb *man/inpat_bg.Rd
+40b273a4b9bab925999b9a88ea985f09 *man/loglikhresid.Rd
+62782af1d90c3a445ca0a4557ae69c46 *man/qqplot.EVT1.Rd
+3a3855920f2fff1714d07376a1cd0763 *man/rologit.Rd
+f10ef08667a9ddb6f77622493c5d33ec *man/rologit.coxph.Rd
+42cdb10901a972400859fc914f167696 *man/summary.rologit.Rd
