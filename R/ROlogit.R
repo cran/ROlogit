@@ -287,7 +287,7 @@ rologit <- function(yvar, evar, cfdr = NULL, emod = NULL, svar, dat,
     ms.res <- cbind(
       coef_mat[, 1], est.scale * coef_mat[, 1], # coef and scaled.coef
       coef_mat[, 2], # exp(coef)
-      coef_mat[, 3], est.scale * coef_mat[3], # se(coef) and se(scaled.coef)
+      coef_mat[, 3], est.scale * coef_mat[, 3], # se(coef) and se(scaled.coef)
       coef_mat[, 4:5] # z and p-value
     )
     ms.res <- data.frame(variable = rownames(coef_mat), ms.res)

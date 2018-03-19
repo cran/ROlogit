@@ -1,7 +1,7 @@
 Package: ROlogit
 Type: Package
 Title: Fit Rank-Ordered Logit (RO-Logit) Model
-Version: 0.1.1
+Version: 0.1.2
 Author: Tan Chuen Seng, Ning Yilin
 Maintainer: Ning Yilin <ningyilinnyl@gmail.com>
 Description: Implements the rank-ordered logit (RO-logit) model for stratified 
@@ -16,6 +16,6 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1
 NeedsCompilation: no
-Packaged: 2018-02-03 06:16:26 UTC; yilinning
+Packaged: 2018-03-19 07:48:34 UTC; e0013210
 Repository: CRAN
-Date/Publication: 2018-02-05 12:56:36 UTC
+Date/Publication: 2018-03-19 08:13:57 UTC

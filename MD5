@@ -1,8 +1,8 @@
-f4600dcb0e60000f0f15913e1ff85a7f *DESCRIPTION
+40801cbdaec8e32b79ea14a97d5ce68f *DESCRIPTION
 a41fd80839de9756d069f723cc3ff0cc *NAMESPACE
-e1fc2bd3515dc3b6b796eaf539c39b7f *R/ROlogit.R
-06c2b9ebc4d8504f5b79591d453e4c07 *data/inpat_bg.RData
-200919844904587cdad976a0833eced2 *inst/CITATION
+a5fe8870da5339042155ba91d41e627f *R/ROlogit.R
+20b8b13a084a185d84801ff5e82355dd *data/inpat_bg.RData
+faa6d7224f7671ffc23b91c6a93d1b33 *inst/CITATION
 002845a0e030bc3dc2e046011e3c3165 *man/hresid.Rd
 fc4a9ff9c50b126339de9ae771bda6b6 *man/inpat_bg.Rd
 8f45d88d3db9dd2cf8447e0022bb70fa *man/loglikhresid.Rd
