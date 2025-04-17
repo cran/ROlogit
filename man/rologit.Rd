@@ -4,8 +4,18 @@
 \alias{rologit}
 \title{Fit RO-logit model and obtain heuristic residuals}
 \usage{
-rologit(yvar, evar, cfdr = NULL, emod = NULL, svar, dat, method = "efron",
-  initial.res.par = c(0, 0), plot = TRUE, ...)
+rologit(
+  yvar,
+  evar,
+  cfdr = NULL,
+  emod = NULL,
+  svar,
+  dat,
+  method = "efron",
+  initial.res.par = c(0, 0),
+  plot = TRUE,
+  ...
+)
 }
 \arguments{
 \item{yvar}{string. Name of outcome variable.}
@@ -26,7 +36,7 @@ analysis.}
 
 \item{method}{string. Use Efron (\code{"efron"}) or Breslow
 (\code{"breslow"}) method for handling ties in the outcome. The default is
-\code{"efron"}. See \code{\link{coxph}} for details.}
+\code{"efron"}. See \code{\link[survival]{coxph}} for details.}
 
 \item{initial.res.par}{The initial values of the intercept and log(scale), to
 be passed to the \code{optim} function. The default values are set to

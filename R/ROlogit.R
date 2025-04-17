@@ -162,7 +162,7 @@ qqplot.EVT1<-function(hresid,scale){
 #'   analysis.
 #' @param method string. Use Efron (\code{"efron"}) or Breslow
 #'   (\code{"breslow"}) method for handling ties in the outcome. The default is
-#'   \code{"efron"}. See \code{\link{coxph}} for details.
+#'   \code{"efron"}. See \code{\link[survival]{coxph}} for details.
 #' @param initial.res.par The initial values of the intercept and log(scale), to
 #'   be passed to the \code{optim} function. The default values are set to
 #'   \code{c(0, 0)}, yet users are recommended to try a few initial values to

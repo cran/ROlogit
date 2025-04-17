@@ -4,7 +4,8 @@
 \name{inpat_bg}
 \alias{inpat_bg}
 \title{Inpatient blood glucose data for 2487 patients}
-\format{A data frame with 2487 rows and 13 variables:
+\format{
+A data frame with 2487 rows and 13 variables:
 \describe{
   \item{bg_mean}{Mean BG readings within each episode, in mmol/L.}
   \item{bg_sd}{Standard deviation of BG readings within each episode.}
@@ -19,7 +20,8 @@
   \item{age}{Patients' age.}
   \item{los}{Patients' duration of monitoring episode.}
   \item{bg_freq}{Patients' daily BG monitoring frequency.}
-}}
+}
+}
 \usage{
 inpat_bg
 }
